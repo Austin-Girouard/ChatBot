@@ -22,4 +22,4 @@ Type "weather" followed by a zipcode/city name to get the weather! Ex. **weather
 
 Type "Spotify New Releases" followed by the number of releases to get a list of new spotify releases! Ex. **Spotify New Releases 5**
 
-**NOTE:** *MAX NUMBER OF RELEASES IS 10*
+**NOTE:** *MAX NUMBER OF RELEASES IS 9*
