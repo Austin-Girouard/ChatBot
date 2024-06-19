@@ -13,7 +13,7 @@ public class MyBot extends PircBot// implements SpotifyAPI, WeatherAPI
 	
 	public MyBot()
 	{
-		String[] names = {"MyBot", "BeepBot", "BeepBoopBot", "PircBot", "CoolBot", "BOT", "BeepleBot", "BotBot"};
+		String[] names = {"MyBot", "Bot", "PircBot", "ChatBot"};
 		this.setName(names[Math.abs(new Random().nextInt()) % 8]);
 	}
 	
