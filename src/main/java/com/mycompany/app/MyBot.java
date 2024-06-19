@@ -8,8 +8,8 @@ import org.jibble.pircbot.PircBot;
 public class MyBot extends PircBot// implements SpotifyAPI, WeatherAPI
 {
 	public String accessToken;
-	public String versionNumber = "1.0.0";
-	public String versionDate = "Oct. 23, 2020";
+	public String versionNumber = "1.1.0";
+	public String versionDate = "Jan. 28, 2024";
 	
 	public MyBot()
 	{
